@@ -1,0 +1,149 @@
+item {
+  id: 1
+  name: 'dej_prednost_v_jizde'
+  display_name: 'Dej prednost v jizde'
+}
+
+item {
+  id: 2
+  name: 'zakaz_vjezdu_vsech_vozidel'
+  display_name: 'Zakaz vjezdu vsech vozidel'
+}
+
+item {
+  id: 3
+  name: 'zakaz_vjezdu_v_obou_smerech'
+  display_name:  'Zakaz vjezdu v obou smerech'
+}
+
+item {
+  id: 4
+  name: 'stop'
+  display_name: 'Stop'
+}
+
+item {
+  id: 5
+  name: 'zakaz_odboceni_vlevo'
+  display_name: 'Zakaz odboceni vlevo'
+}
+
+item {
+  id: 6
+  name: 'zakaz_odboceni_vpravo'
+  display_name: 'Zakaz odboceni vpravo'
+}
+
+item {
+  id: 7
+  name: 'zakaz_stani'
+  display_name: 'Zakaz stani'
+}
+
+item {
+  id: 8
+  name: 'zakaz_zastaveni'
+  display_name: 'Zakaz zastaveni'
+}
+
+item {
+  id: 9
+  name: 'hlavni_pozemni_komunikace'
+  display_name: 'Hlavni pozemni komunikace'
+}
+
+item {
+  id: 10
+  name: 'konec_hlavni_pozemni_komunikace'
+  display_name: 'Konec hlavni pozemni komunikace'
+}
+
+item {
+  id: 11
+  name: 'krizovatka_s_vedlejsi_pozemni_komunikaci'
+  display_name: 'Krizovatka s vedlejsi pozemni komunikaci'
+}
+
+item {
+  id: 12
+  name: 'pozor_zpomalovaci_prah'
+  display_name: 'Pozor zpomalovaci prah'
+}
+
+item {
+  id: 13
+  name: 'parkoviste'
+  display_name: 'Parkoviste'
+}
+
+item {
+  id: 14
+  name: 'slepa_ulice'
+  display_name: 'Slepa ulice'
+}
+
+item {
+  id: 15
+  name: 'jednosmerny_provoz'
+  display_name: 'Jednosmerny provoz'
+}
+
+item {
+  id: 16
+  name: 'prechod_pro_chodce'
+  display_name: 'Prechod pro chodce'
+}
+
+item {
+  id: 17
+  name: 'kruhovy_objezd'
+  display_name: 'Kruhovy objezd'
+}
+
+item {
+  id: 18
+  name: '30'
+  display_name: '30'
+}
+
+item {
+  id: 19
+  name: '40'
+  display_name: '40'
+}
+
+item {
+  id: 20
+  name: '50'
+  display_name: '50'
+}
+
+item {
+  id: 21
+  name: '60'
+  display_name: '60'
+}
+
+item {
+  id: 22
+  name: '70'
+  display_name: '70'
+}
+
+item {
+  id: 23
+  name: '80'
+  display_name: '80'
+}
+
+item {
+ id: 24
+ name: 'prikazany_smer_jizdy_vlevo'
+ display_name: 'Prikazany smer jizdy vlevo'
+}
+
+item {
+ id: 25
+ name: 'prikazany_smer_jizdy_vpravo'
+ display_name: 'Prikazany smer jizdy vpravo'
+}
